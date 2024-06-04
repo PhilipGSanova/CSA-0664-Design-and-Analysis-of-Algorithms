@@ -21,3 +21,15 @@ Day 1 <br />
 8. Write a program   to generate all the prime numbers using recursion<br />
 9. Write a program to check a number is a prime number or not using recursion.<br />
 10. Write a program for to check whether a given String is Palindrome or  not using recursion<br />
+
+Assignment 2<br />
+1. Container with most water<br />
+2. Integer to Roman<br />
+3. Roman to Integer<br />
+4. Longest Common Prefix<br />
+5. 3Sum<br />
+6. 3Sum closest<br />
+7. Letter combinations of a phone number<br />
+8. 4Sum<br />
+9. Remove nth node from end of list<br />
+10. Valid parentheses<br />
