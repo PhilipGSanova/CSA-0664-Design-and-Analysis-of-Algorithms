@@ -1,5 +1,16 @@
 # CSA-0664-Design-and-Analysis-of-Algorithms
 Assignment 1 <br />
+1. Two Sum<br />
+2. Add Two Numbers<br />
+3. Longest Substring without Repeating Characters<br />
+4. Median of Two Sorted Arrays<br />
+5. Longest Palindromic String<br />
+6. ZigZag Conversion<br />
+7. Reverse Integer<br />
+8. String to Integer(atoi)<br />
+9. Palindrome Number<br />
+10. Regular Expression Matching<br />
+
 Day 1 <br />
 1. Write a program to Print Fibonacci Series using recursion.<br />
 2. Write a program to check the given no is Armstrong or not using recursive function.<br />
