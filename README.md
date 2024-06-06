@@ -57,3 +57,15 @@ Assignment 3<br />
 8. Next permutations<br />
 9. Number of ways to wear different hats on each other<br />
 10. Perform string shifts<br />
+
+Day 3<br />
+1. Check if a string can break another string<br />
+2. Generate k Closest Points to the Origin<br />
+3. Maximum Binary Tree from an Integer Array<br />
+4. Maximum Sum of Subsequence with No Adjacent Elements<br />
+5. Maximum Sum of a Circular Subarray<br />
+6. Median of Two Sorted Arrays with Time Complexity of O(log(m+n))<br />
+7. Remove the first occurence of the letter in the string<br />
+8. Replace question marks in string to minimize it's valuev
+9. Smallest String With Swaps<br />
+10. Subarray with the largest sum<br />
