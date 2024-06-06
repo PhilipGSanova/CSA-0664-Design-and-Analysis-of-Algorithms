@@ -33,3 +33,15 @@ Assignment 2<br />
 8. 4Sum<br />
 9. Remove nth node from end of list<br />
 10. Valid parentheses<br />
+
+Assignment 3<br />
+1. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree<br />
+2. Check if a string can break another string<br />
+3. Counting elements<br />
+4. First unique number<br />
+5. Kid with greatest number of candies<br />
+6. Left most column with atleast a one<br />
+7. Max difference you can get from chaning integers<br />
+8. Next permutations<br />
+9. Number of ways to wear different hats on each other<br />
+10. Perform string shifts<br />
