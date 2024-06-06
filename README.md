@@ -34,6 +34,18 @@ Assignment 2<br />
 9. Remove nth node from end of list<br />
 10. Valid parentheses<br />
 
+Day 2<br />
+1. Demonstration of mathematical analysis of recursive and non-recursive algorithms<br />
+2. Half odd and Half even<br />
+3. Intersection of two arrays (recurring elements)<br />
+4. Intersection of two arrays<br />
+5. Solving recurrence relation using Master theorem, Iteration method and Substitution metho<br />
+6. Sort array by odd and even<br />
+7. Sort array in ascending order<br />
+8. Usage of notations by analyzing time complexity<br />
+9. Write a program to find the perfect number<br />
+10. Write a program to find the reverse of a given number using recursive<br />
+
 Assignment 3<br />
 1. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree<br />
 2. Check if a string can break another string<br />
