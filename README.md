@@ -80,3 +80,13 @@ Assignment 4<br />
 7. Sort array by moving items to empty space<br />
 8. The next greater element<br />
 9. Words within two edits of dictionary<br />
+
+Day 4<br />
+1. Insert number in a list<br />
+2. List of all factors of n<br />
+3. Minimum and Maximum value in a list<br />
+4. Pascal Triangle<br />
+5. Pattern<br />
+6. Perfect number<br />
+7. Sum of digits<br />
+8. Travelling Salesman<br />
