@@ -69,3 +69,14 @@ Day 3<br />
 8. Replace question marks in string to minimize it's valuev
 9. Smallest String With Swaps<br />
 10. Subarray with the largest sum<br />
+
+Assignment 4<br />
+1. Apply operations to an array<br />
+2. Average value of even numbers divisible by three<br />
+3. Destroy Sequential Targets<br />
+4. Finding the minimum non-negative integer<br />
+5. Minimum Addition to make an integer Beautiful<br />
+6. Odd String difference<br />
+7. Sort array by moving items to empty space<br />
+8. The next greater element<br />
+9. Words within two edits of dictionary<br />
